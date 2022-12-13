@@ -1,5 +1,9 @@
 ### BOOK
 - 자바에서 코틀린으로 - 덩컨 맥그레거
+<table><tr><td>
+    <img width="150" alt="image" src="https://user-images.githubusercontent.com/87924260/207300899-91601d4e-9ff6-474b-9b16-1c1e75d020df.png">
+</td></tr></table>
+
 
 ### 리스트
 | | | | |
