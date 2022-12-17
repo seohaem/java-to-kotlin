@@ -11,3 +11,4 @@
 |Name|Status|공부일자|project|
 |chapter02. 자바 프로젝트에서 코틀린 프로젝트로|완료|2022/12/13|[java-to-kotlin-project](https://github.com/seohaem/java-to-kotlin/tree/main/java-to-kotlin-project)|
 |chapter03. 자바 클래스에서 코틀린 클래스로|완료|2022/12/14|[java-to-kotlin-project](https://github.com/seohaem/java-to-kotlin/tree/main/code-email-address)|
+|chapter04. 옵셔널에서 널이 될 수 있는 타입으로|완료|2022/12/16|[java-to-kotlin-project](https://github.com/seohaem/java-to-kotlin/tree/main/code-nullability)|
