@@ -16,3 +16,4 @@
 |chapter06. 자바에서 코틀린 컬렉션으로|완료|2022/12/19|[code-java-to-kotlin-collections](https://github.com/seohaem/java-to-kotlin/tree/main/code-java-to-kotlin-collections)|
 |chapter07. 동작에서 계산으로|완료|2022/12/21|[code-actions](https://github.com/seohaem/java-to-kotlin/tree/main/code-actions)|
 |chapter08. 정적 메서드에서 최상위 함수로|완료|2023/01/01|[code-static-to-top-level](https://github.com/seohaem/java-to-kotlin/tree/main/code-static-to-top-level)|
+|chapter09. 다중식 함수에서 단일식 함수로|2023/01/02|[code-email-address](https://github.com/seohaem/java-to-kotlin/tree/main/code-email-address)|
